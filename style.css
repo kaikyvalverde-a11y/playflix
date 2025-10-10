@@ -4,3 +4,15 @@ body {
 
  font-family: "Quintessential", serif;
 }
+
+header{
+    font-size: 40px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 30px;
+}
