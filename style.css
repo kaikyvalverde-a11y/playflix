@@ -2,11 +2,14 @@ body {
     background-color: rgb(95, 4, 4);
     color: rgb(0, 0, 0);
 
- font-family: "Quintessential", serif;
+   font-family: "Quintessential", serif;
+margin: 0px;
+
 }
 
 header{
     font-size: 40px;
+    text-align: center;
 }
 
 h1{
