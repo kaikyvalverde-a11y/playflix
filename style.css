@@ -24,3 +24,11 @@ p{
     font-size: 30px;
     padding-left: 30px;
 }
+
+section{
+    background-color: rgb(119, 0, 0);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
+    justify-content: center;
+}
