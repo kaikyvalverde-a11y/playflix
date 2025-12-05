@@ -25,7 +25,7 @@ p{
     padding-left: 30px;
 }
 
-section{
+.chamada{
     background-color: rgb(119, 0, 0);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -35,4 +35,24 @@ section{
 
 .chamada-texto{
     margin-right: 10%;
+}
+
+img{
+    width: 300px;
+    height: 200px
+}
+
+.categoria-video{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    padding: 20px;
+}
+
+h2{
+    padding-left: 30px;
+}
+
+body{
+    padding-bottom: 40px;
 }
